@@ -1,0 +1,113 @@
+{
+  "extension_name": {
+    "message": "Better Zenless"
+  },
+  "extension_short_name": {
+    "message": "Zenless BT"
+  },
+  "extension_description": {
+    "message": "Лушчее расширение для игроков"
+  },
+  "by": {
+    "message": "By Remader"
+  },
+  "love": {
+    "message": "With Love \uD83D\uDC95"
+  },
+  "social": {
+    "message": "Наши соц сети:"
+  },
+
+  "fastlinks": {
+    "message": "Глобальные Ресурсы:"
+  },
+  "fastlinkscn": {
+    "message": "Китайские Ресурсы:"
+  },
+  "fastlinksjp": {
+    "message": "Японские Ресурсы:"
+  },
+  "fastlinksko": {
+    "message": "Корейские Ресурсы:"
+  },
+
+  "oursite": {
+    "message": "Наш Сайт"
+  },
+  "ourgithub": {
+    "message": "Исходный Код"
+  },
+  "ourtelegram": {
+    "message": "Наш Телеграм Канал"
+  },
+  "ourshare": {
+    "message": "Поделиться"
+  },
+
+  "youtube": {
+    "message": "Ютуб"
+  },
+  "proxynetwork": {
+    "message": "Proxy Network (HoYoLab)"
+  },
+  "proxynetworkcn": {
+    "message": "Proxy Network (BBS)"
+  },
+  "type2": {
+    "message": "Type 2 (HoYoLab)"
+  },
+  "typemi": {
+    "message": "Type Mi (BBS)"
+  },
+  "site": {
+    "message": "Сайт"
+  },
+  "sitecn": {
+    "message": "Сайт (CN)"
+  },
+  "reddit": {
+    "message": "Реддит"
+  },
+  "tiktok": {
+    "message": "Лучший Оф ТикТок"
+  },
+  "twitter": {
+    "message": "Твиттер"
+  },
+  "fandom": {
+    "message": "Вики ZZZ"
+  },
+  "discord": {
+    "message": "Дискорд"
+  },
+  "facebook": {
+    "message": "Фейсбук"
+  },
+  "instagram": {
+    "message": "Инстаграм"
+  },
+  "bilibili": {
+    "message": "БилиБили"
+  },
+  "miyoushebigboss": {
+    "message": "Миюша Биг Бубс"
+  },
+  "miyoushe": {
+    "message": "Миюша"
+  },
+  "taptap": {
+    "message": "TapTap Форум"
+  },
+  "naver": {
+    "message": "Naver"
+  }
+}
+
+
+
+
+
+
+
+
+

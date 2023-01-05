@@ -1,0 +1,113 @@
+{
+  "extension_name": {
+    "message": "Better Zenless"
+  },
+  "extension_short_name": {
+    "message": "Zenless BT"
+  },
+  "extension_description": {
+    "message": "The best solution for players"
+  },
+  "by": {
+    "message": "By Remader"
+  },
+  "love": {
+    "message": "With Love \uD83D\uDC95"
+  },
+  "social": {
+    "message": "Our Social Networks:"
+  },
+
+  "fastlinks": {
+    "message": "Global Links:"
+  },
+  "fastlinkscn": {
+    "message": "CN Links:"
+  },
+  "fastlinksko": {
+    "message": "KO Links:"
+  },
+  "fastlinksjp": {
+    "message": "JP Links:"
+  },
+
+  "oursite": {
+    "message": "Our Site"
+  },
+  "ourgithub": {
+    "message": "Extension Source Code"
+  },
+  "ourtelegram": {
+    "message": "Our Telegram Channel"
+  },
+  "ourshare": {
+    "message": "Share"
+  },
+
+  "youtube": {
+    "message": "Official YouTube Channel"
+  },
+  "proxynetwork": {
+    "message": "Proxy Network (HoYoLab)"
+  },
+  "proxynetworkcn": {
+    "message": "Proxy Network (BBS)"
+  },
+  "type2": {
+    "message": "Type 2 (HoYoLab)"
+  },
+  "typemi": {
+    "message": "Type Mi (BBS)"
+  },
+  "site": {
+    "message": "Official Site"
+  },
+  "sitecn": {
+    "message": "Official CN Site"
+  },
+  "reddit": {
+    "message": "Official Reddit"
+  },
+  "tiktok": {
+    "message": "Best Official TikTok Ever"
+  },
+  "twitter": {
+    "message": "Official Twitter"
+  },
+  "fandom": {
+    "message": "Zenless Zone Zero Wiki"
+  },
+  "discord": {
+    "message": "Official Discord"
+  },
+  "facebook": {
+    "message": "Official Facebook"
+  },
+  "instagram": {
+    "message": "Official Instagram"
+  },
+  "bilibili": {
+    "message": "Official BiliBili"
+  },
+  "miyoushebigboss": {
+    "message": "Miyoushe (BIG BOSS)"
+  },
+  "miyoushe": {
+    "message": "Miyoushe"
+  },
+  "taptap": {
+    "message": "TapTap Lounge"
+  },
+  "naver": {
+    "message": "Official Naver Lounge"
+  }
+}
+
+
+
+
+
+
+
+
+

@@ -122,6 +122,7 @@ h1 {
   position: absolute;
   bottom: 2px;
   right: 7px;
+  user-select: none;
 }
 .gif {
   position: absolute;

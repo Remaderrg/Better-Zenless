@@ -30,6 +30,9 @@
   "fastlinksjp": {
     "message": "JP Links:"
   },
+  "fastlinksother": {
+    "message": "Other Links:"
+  },
 
   "oursite": {
     "message": "Our Site"
@@ -100,6 +103,18 @@
   },
   "naver": {
     "message": "Official Naver Lounge"
+  },
+  "hoyoverse": {
+    "message": "HoYoVerse Site"
+  },
+  "tos": {
+    "message": "Terms of Service"
+  },
+  "pp": {
+    "message": "Privacy Policy"
+  },
+  "account": {
+    "message": "Account Settings"
   }
 }
 

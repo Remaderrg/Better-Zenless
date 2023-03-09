@@ -30,6 +30,9 @@
   "fastlinksko": {
     "message": "Корейские Ресурсы:"
   },
+  "fastlinksother": {
+    "message": "Другие Ресурсы:"
+  },
 
   "oursite": {
     "message": "Наш Сайт"
@@ -100,6 +103,18 @@
   },
   "naver": {
     "message": "Naver"
+  },
+  "hoyoverse": {
+    "message": "HoYoVerse Сайт"
+  },
+  "tos": {
+    "message": "Условия использования"
+  },
+  "pp": {
+    "message": "Политика Конфиденциальности"
+  },
+  "account": {
+    "message": "Настройки Аккаунта"
   }
 }
 

@@ -113,6 +113,9 @@
   "pp": {
     "message": "Политика Конфиденциальности"
   },
+  "gematsu": {
+    "message": "Gematsu"
+  },
   "account": {
     "message": "Настройки Аккаунта"
   }

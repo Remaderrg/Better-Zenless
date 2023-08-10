@@ -3,7 +3,7 @@
 
   "name": "__MSG_extension_name__",
   "description": "__MSG_extension_description__",
-  "version": "0.0.6",
+  "version": "0.0.7",
 
   "default_locale": "en",
   "icons": {
@@ -19,7 +19,7 @@
 
   "content_scripts": [{
     "matches": ["https://zenless.hoyoverse.com/*", "https://zzz.mihoyo.com/*"],
-    "js": ["my-style.js"],
+    "js": ["my-style.js", "UpDownButtons.js"],
     "run_at": "document_start"
   }]
 }

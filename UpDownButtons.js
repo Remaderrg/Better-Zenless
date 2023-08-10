@@ -9,11 +9,14 @@ function Buttons() {
             btnup.type = 'button'
             btndown.id = 'button_down'
             btnup.id = 'button_up'
-	        backContainer.appendChild(btnup);
-            backContainer.appendChild(btndown);
+            try {
+                backContainer.appendChild(btnup);
+                backContainer.appendChild(btndown);
+            } catch(e) {
+            }
             btndown.addEventListener('click', ()=>{window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" })});
             btnup.addEventListener('click', ()=>{window.scrollTo({ top: document.body.scrollTop, behavior: "smooth" })});
         }
-        }, 500);
+        }, 100);
     };
 window.onload = Buttons;

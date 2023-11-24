@@ -17,9 +17,11 @@
   "social": {
     "message": "Наши соц сети:"
   },
-
   "fastlinks": {
     "message": "Глобальные Ресурсы:"
+  },
+  "fastlinksru": {
+    "message": "Российские Ресурсы:"
   },
   "fastlinkscn": {
     "message": "Китайские Ресурсы:"
@@ -33,7 +35,6 @@
   "fastlinksother": {
     "message": "Другие Ресурсы:"
   },
-
   "oursite": {
     "message": "Наш Сайт"
   },
@@ -46,15 +47,14 @@
   "ourshare": {
     "message": "Поделиться"
   },
-
   "youtube": {
     "message": "Ютуб"
   },
   "proxynetwork": {
-    "message": "Proxy Network (HoYoLab)"
+    "message": "Zenless Zone Zero (HoYoLab)"
   },
   "proxynetworkcn": {
-    "message": "Proxy Network (BBS)"
+    "message": "Zenless Zone Zero (BBS)"
   },
   "type2": {
     "message": "Type 2 (HoYoLab)"
@@ -118,6 +118,15 @@
   },
   "account": {
     "message": "Настройки Аккаунта"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "telegram": {
+    "message": "Телеграм"
+  },
+  "vk": {
+    "message": "Вк"
   }
 }
 

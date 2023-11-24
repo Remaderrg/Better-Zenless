@@ -18,8 +18,8 @@
   },
 
   "content_scripts": [{
-    "matches": ["https://zenless.hoyoverse.com/*", "https://zzz.mihoyo.com/*"],
-    "js": ["my-style.js", "UpDownButtons.js"],
+    "matches": ["https://zenless.hoyoverse.com/*", "https://zzz.mihoyo.com/*", "https://bangboo.ru/*"],
+    "js": ["my-style.js"],
     "run_at": "document_start"
   }]
 }

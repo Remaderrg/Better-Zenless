@@ -17,9 +17,11 @@
   "social": {
     "message": "Our Social Networks:"
   },
-
   "fastlinks": {
     "message": "Global Links:"
+  },
+  "fastlinksru": {
+    "message": "RU Links:"
   },
   "fastlinkscn": {
     "message": "CN Links:"
@@ -33,7 +35,6 @@
   "fastlinksother": {
     "message": "Other Links:"
   },
-
   "oursite": {
     "message": "Our Site"
   },
@@ -46,15 +47,14 @@
   "ourshare": {
     "message": "Share"
   },
-
   "youtube": {
     "message": "Official YouTube Channel"
   },
   "proxynetwork": {
-    "message": "Proxy Network (HoYoLab)"
+    "message": "Zenless Zone Zero (HoYoLab)"
   },
   "proxynetworkcn": {
-    "message": "Proxy Network (BBS)"
+    "message": "Zenless Zone Zero (BBS)"
   },
   "type2": {
     "message": "Type 2 (HoYoLab)"
@@ -72,7 +72,7 @@
     "message": "Official Reddit"
   },
   "tiktok": {
-    "message": "Best Official TikTok Ever"
+    "message": "Official TikTok"
   },
   "twitter": {
     "message": "Official Twitter"
@@ -118,6 +118,15 @@
   },
   "account": {
     "message": "Account Settings"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "telegram": {
+    "message": "Official Telegram"
+  },
+  "vk": {
+    "message": "Official VK"
   }
 }
 

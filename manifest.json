@@ -3,7 +3,7 @@
 
   "name": "__MSG_extension_name__",
   "description": "__MSG_extension_description__",
-  "version": "0.0.8",
+  "version": "0.0.10",
 
   "default_locale": "en",
   "icons": {
@@ -18,8 +18,8 @@
   },
 
   "content_scripts": [{
-    "matches": ["https://zenless.hoyoverse.com/*", "https://zzz.mihoyo.com/*"],
-    "js": ["my-style.js", "UpDownButtons.js"],
+    "matches": ["https://zenless.hoyoverse.com/*", "https://zzz.mihoyo.com/*", "https://bangboo.ru/*"],
+    "js": ["my-style.js"],
     "run_at": "document_start"
   }]
 }

@@ -127,6 +127,9 @@
   },
   "vk": {
     "message": "Official VK"
+  }, 
+  "version": {
+    "message": "0.0.11"
   }
 }
 
